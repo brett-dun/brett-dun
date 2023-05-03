@@ -9,3 +9,5 @@ I'm currently finishing up my computer engineering degree at the University of M
 **Favorite Language:** F#
 
 **Language I'm Learning:** Rust
+
+**Current Project:** [RISC-V CPU Implementation](https://github.com/brett-dun/risc-v)
